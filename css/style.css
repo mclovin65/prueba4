@@ -1,0 +1,106 @@
+.seccion2{
+    width: 1239px;
+    height: 500px;
+    
+}
+.tr{
+    margin: 10px 400px;
+    width: 100px;
+    height: 1px;
+    background-color: red;
+}
+.seccion2 p{
+margin: 0px 550px;
+}
+.seccion2 h1{
+    margin: 10px 550px;
+}
+.conteiner1{
+    display: flex;
+    width: 1239px;
+    height: 300px;
+    margin: 100px 0px;
+   
+}
+.fj1{
+    margin: 20px 20px;
+    width: 250px;
+    height: 250px;
+    
+}
+.fj1 img{
+    width: 62px;
+    height: 62px;
+}
+.fj1 h1{
+    margin: 0px 40px;
+}
+.fj1 p{
+    margin: 20px 40px;
+}
+.fj1 span{
+    margin: 30px 70px;
+}
+
+
+.fj2{
+    margin: 20px 40px;
+    width: 250px;
+    height: 250px;
+   
+}
+.fj2 img{
+    width: 62px;
+    height: 62px;
+}
+.fj2 h1{
+    margin: 0px 40px;
+}
+.fj2 p{
+    margin: 20px 40px;
+}
+.fj2 span{
+    margin: 30px 70px;
+}
+
+
+.fj3{
+    margin: 20px 40px;
+    width: 250px;
+    height: 250px;
+    
+}
+.fj3 img{
+    width: 62px;
+    height: 62px;
+}
+.fj3 h1{
+    margin: 0px 40px;
+}
+.fj3 p{
+    margin: 35px 40px;
+}
+.fj3 span{
+    margin: 30px 70px;
+}
+
+
+.fj4{
+    margin: 20px 40px;
+    width: 250px;
+    height: 250px;
+    
+}
+.fj4 img{
+    width: 62px;
+    height: 62px;
+}
+.fj4 h1{
+    margin: 0px 40px;
+}
+.fj4 p{
+    margin: 20px 40px;
+}
+.fj4 span{
+    margin: 30px 70px;
+}

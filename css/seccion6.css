@@ -1,0 +1,115 @@
+.seccion6{
+    margin-top: 90px;
+    width: 1239px;
+    height: 600px;
+    
+    display: flex;
+    justify-content: center;
+}
+.b{
+
+    width: 170px;
+    height: 100px;
+  
+}
+
+
+.bb{
+    margin-left: 600px;
+    display: flex;
+    width: 100px ;
+    height: 50px;
+}
+.bb div{
+    margin-left: 30px;
+    margin-top: 25px;
+    width: 40px;
+    height: 2px;
+    background-color: red;
+}
+.card2{   
+    width: 200px;
+    height: 500px;
+
+}
+
+.card2 img{
+    border-radius: 10px;
+    margin: 10px 45px;
+    width: 200px;
+    height: 200px;
+}
+.ccar2{
+    display: flex;
+    justify-content: space-between;
+}
+.car3{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.card3{   
+    width: 200px;
+    height: 500px;
+
+}
+
+.card3 img{
+    border-radius: 10px;
+    margin: 10px 45px;
+    width: 200px;
+    height: 200px;
+}
+.ccar5{
+    display: flex;
+    justify-content: space-between;
+}
+.car4{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+.card4{   
+    width: 200px;
+    height: 500px;
+
+}
+
+.card4 img{
+    border-radius: 10px;
+    margin: 10px 45px;
+    width: 200px;
+    height: 200px;
+}
+.ccar6{
+    display: flex;
+    justify-content: space-between;
+}
+.car5{
+    display: flex;
+    justify-content: space-between;
+}
+.cards{
+   gap: 150px;
+    display: flex;
+    margin: 200px 50px;
+    width: 1200px;
+    height: 600px;}
+    .ra{
+        border-radius: 10px;
+        margin: 500px -700px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 200px;
+        height: 50px;
+        background-color: brown;
+    
+    }
+    .ra p{
+        color: white;
+    }

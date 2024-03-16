@@ -1,0 +1,185 @@
+.seccion4{
+    display: flex;
+    width: 1239px;
+    height: 900px;
+    
+}
+.barra4{
+    margin: 20px 450px;
+    display: grid;
+    grid-template-columns: 2;
+    grid-template-rows: 2;
+     
+     width: 300px;
+     height: 100px
+}
+.barra4 p{
+    margin: 5px 80px;
+}
+.p3{
+    margin: 20px 50px;
+}
+.barr4{
+    display: flex;
+    background: rgba(244, 244, 244, 1);
+
+    margin: 150px -900px;
+    border-radius: 10px;
+    
+    width: 600px;
+    height: 50px;
+}
+
+
+.ji{
+    margin: 10px 30px;
+    border-radius: 10px;
+    background-color: rgb(244, 229, 229);
+    width: 100px;
+    height: 20px;
+}
+.ji p{
+    color: rgb(0, 0, 0);
+    margin: 0px 0px;
+}
+.ji2{
+    margin: 10px 60px;
+    width: 140px;
+    height: 30px;
+}
+.ji2 p{
+    color: rgb(18, 15, 15);
+    margin: 0px 10px;
+}
+.ji3{
+    margin: 10px 0px;
+    width: 140px;
+    height: 30px;
+}
+.ji3 p{
+    color: rgb(12, 8, 8);
+    margin: 0px 10px;
+}
+.br4{
+    gap: 60px;
+    display: flex;
+    margin: 300px 50px;
+    width: 1200px;
+    height: 600px;
+    
+}
+.ki2{
+    margin: 0px 20px;
+    width: 200px;
+    height: 500px;
+
+}
+.ki2 h1{
+    margin: 0px 35px;
+}
+
+.ki2 img{
+    border-radius: 10px;
+    margin: 10px 45px;
+    width: 200px;
+    height: 200px;
+}
+.lo2{
+    display: flex;
+    justify-content: space-between;
+}
+.llo3{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.ki3{   
+    width: 200px;
+    height: 500px;
+
+}
+
+.ki3 img{
+    border-radius: 10px;
+    margin: 10px 45px;
+    width: 200px;
+    height: 200px;
+}
+.lo5{
+    display: flex;
+    justify-content: space-between;
+}
+.llo4{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.ki4{   
+    width: 200px;
+    height: 500px;
+
+}
+
+.ki4 img{
+    border-radius: 10px;
+    margin: 10px 45px;
+    width: 200px;
+    height: 200px;
+}
+.lo6{
+    display: flex;
+    justify-content: space-between;
+}
+.llo5{
+    display: flex;
+    justify-content: space-between;
+}
+
+.ki5{
+    
+    
+    width: 200px;
+    height: 500px;
+
+}
+
+.ki5 img{
+    border-radius: 10px;
+    margin: 10px 45px;
+    width: 200px;
+    height: 200px;
+}
+.lo7{
+    display: flex;
+    justify-content: space-between;
+}
+.llo6{
+    display: flex;
+    justify-content: space-between;
+}
+.ro{
+    border-radius: 10px;
+    margin: 800px -800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 50px;
+    background-color: brown;
+
+}
+.ro p{
+    color: white;
+}
+.ki3 h1{
+    margin: 0px 25px;
+}
+.ki4 h1{
+    margin: 0px 20px;
+}
+.ki5 h1{
+    margin: 0px 10px;
+}
